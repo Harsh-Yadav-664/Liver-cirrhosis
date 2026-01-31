@@ -1,6 +1,5 @@
-============================
-📄 README.md
-============================
+README.md
+
 Liver Cirrhosis Stage Detection
 Description
 
@@ -137,4 +136,5 @@ Real-time hospital systems
 Author
 
 Harsh
+
 B.Tech CSE (AI & ML)
